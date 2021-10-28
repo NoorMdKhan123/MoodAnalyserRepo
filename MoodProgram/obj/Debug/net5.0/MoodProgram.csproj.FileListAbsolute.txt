@@ -1,0 +1,16 @@
+C:\Users\md048\source\repos\MAProgram\MoodProgram\bin\Debug\net5.0\MoodProgram.exe
+C:\Users\md048\source\repos\MAProgram\MoodProgram\bin\Debug\net5.0\MoodProgram.deps.json
+C:\Users\md048\source\repos\MAProgram\MoodProgram\bin\Debug\net5.0\MoodProgram.runtimeconfig.json
+C:\Users\md048\source\repos\MAProgram\MoodProgram\bin\Debug\net5.0\MoodProgram.runtimeconfig.dev.json
+C:\Users\md048\source\repos\MAProgram\MoodProgram\bin\Debug\net5.0\MoodProgram.dll
+C:\Users\md048\source\repos\MAProgram\MoodProgram\bin\Debug\net5.0\ref\MoodProgram.dll
+C:\Users\md048\source\repos\MAProgram\MoodProgram\bin\Debug\net5.0\MoodProgram.pdb
+C:\Users\md048\source\repos\MAProgram\MoodProgram\obj\Debug\net5.0\MoodProgram.csproj.AssemblyReference.cache
+C:\Users\md048\source\repos\MAProgram\MoodProgram\obj\Debug\net5.0\MoodProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\md048\source\repos\MAProgram\MoodProgram\obj\Debug\net5.0\MoodProgram.AssemblyInfoInputs.cache
+C:\Users\md048\source\repos\MAProgram\MoodProgram\obj\Debug\net5.0\MoodProgram.AssemblyInfo.cs
+C:\Users\md048\source\repos\MAProgram\MoodProgram\obj\Debug\net5.0\MoodProgram.csproj.CoreCompileInputs.cache
+C:\Users\md048\source\repos\MAProgram\MoodProgram\obj\Debug\net5.0\MoodProgram.dll
+C:\Users\md048\source\repos\MAProgram\MoodProgram\obj\Debug\net5.0\ref\MoodProgram.dll
+C:\Users\md048\source\repos\MAProgram\MoodProgram\obj\Debug\net5.0\MoodProgram.pdb
+C:\Users\md048\source\repos\MAProgram\MoodProgram\obj\Debug\net5.0\MoodProgram.genruntimeconfig.cache
